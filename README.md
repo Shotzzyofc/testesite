@@ -13,6 +13,10 @@
         h1 {
             color: #333;
         }
+        p {
+            color: #666;
+            font-size: 18px;
+        }
     </style>
 </head>
 <body>
